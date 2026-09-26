@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "dev.asineth.forge10861fix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "forge10861fix.refmap.json",
+  "mixins": [
+    "SimpleChannelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
